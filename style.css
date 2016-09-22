@@ -1,7 +1,9 @@
 body {
-	background-color: #eee;
+		background-color: #eee;
 }
 h1 {
+	margin: 0 6px;
+	padding: 0 0 .5em 0;
 	font-family: "Arial";
 	color: #030100;
 }
