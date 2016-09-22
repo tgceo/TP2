@@ -8,14 +8,13 @@ h1 {
 }
 #nav  {
 	float: right;
-	width: 50px;
 }
 li {
 	float: left;
 	padding: 10px 5px;
 	margin: 5px;
 	color: black;
-	
+	width: 50px;
 	
 }
 
