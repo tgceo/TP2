@@ -1,1 +1,23 @@
 
+h1 {
+	font-family: "Arial";
+}
+#nav  {
+	float: right;	
+}
+li {
+	float: left;
+	padding: 10px 5px;
+	background:	blue;
+	margin: 5px;
+	color: white;
+}
+
+ul {
+	list-style: none;
+	color: white;
+}
+h2 {
+	background-clip: border-box
+	color: white;
+}
