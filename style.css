@@ -4,6 +4,7 @@ body {
 #logoLink {
 	float: left;
 	color: black;
+	margin: 10px 30px 10px 20px;
 }
 h1 {
 	float: left;
@@ -42,5 +43,8 @@ footer {
 	padding: 5px;
 	text-aling: right;
 	border-bottom 1px solid #ddd;
+}
+ul {
+	
 }
 
