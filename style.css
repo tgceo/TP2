@@ -19,7 +19,8 @@ li {
 	background-color: black;
 }
 ul {
-	float: left;
+	float: right;
+	
 }
 h2 {
 	margin: 0 20px;
