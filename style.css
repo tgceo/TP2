@@ -1,12 +1,12 @@
 body {
 		background-color: #eee;
 }
-logo {
+h1 {
 	margin: 0 20px;
 	font-family: "Arial";
 	color: #030100;
 }
-#nav  {
+#nav a {
 	float: right;
 	display: inline;
 }
