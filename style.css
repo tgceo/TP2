@@ -15,7 +15,7 @@ h1 {
 	float: right;
 	margin-right: 15px;
 }
-#nav li {
+li {
 	float: left;
 	display:inline-block;
 	list-syle: none;
