@@ -1,6 +1,9 @@
 body {
 		background-color: #eee;
 }
+#logoLink {
+	color: black;
+}
 h1 {
 	margin: 0 20px;
 	font-family: "Arial";
