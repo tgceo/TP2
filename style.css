@@ -7,8 +7,8 @@ h1 {
 	color: #030100;
 }
 #nav a {
-	float: right;
-	display: inline;
+	padding:15px;
+	color: #fff;
 }
 li {
 	float: left;
