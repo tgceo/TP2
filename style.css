@@ -9,6 +9,11 @@ h1 {
 #nav a {
 	padding:15px;
 	color: #fff;
+
+}
+#nav {
+	float: right;
+	margin-right: 15px;
 }
 li {
 	float: left;
