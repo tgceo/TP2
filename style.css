@@ -13,6 +13,7 @@ h1 {
 li {
 	float: left;
 	display:inline-block;
+	list-syle: nome;
 	margin: 2px;
 	padding:15px;
 	background-color: black;
