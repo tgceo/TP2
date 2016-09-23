@@ -9,12 +9,15 @@ h1 {
 #nav a {
 	padding:15px;
 	color: #fff;
-
 }
 #nav {
 	float: right;
 	margin-right: 15px;
 }
+#nav a:hover{
+	text-decoration: none;
+}
+
 li {
 	float: left;
 	display:inline-block;
