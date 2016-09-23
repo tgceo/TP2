@@ -23,6 +23,11 @@ li {
 	padding:15px;
 	background-color: black;
 }
+#content {
+	clear: both;
+	background-color: #fff;
+	padding: 5px;
+}
 ul {
 	float: right;
 	
