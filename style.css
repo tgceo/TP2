@@ -2,6 +2,7 @@ body {
 		background-color: #eee;
 }
 #logoLink {
+	float: left;
 	color: black;
 }
 h1 {
