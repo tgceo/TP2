@@ -18,6 +18,9 @@ li {
 	padding:15px;
 	background-color: black;
 }
+ul {
+	float: left;
+}
 h2 {
 	margin: 0 20px;
 }
