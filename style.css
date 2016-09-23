@@ -19,3 +19,7 @@ li {
 h2 {
 	margin: 0 20px;
 }
+ul {
+	list-style: none;
+	color: white;
+}
