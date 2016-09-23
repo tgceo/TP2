@@ -29,7 +29,12 @@ li {
 	padding: 5px 20px 5px 20px;
 	margin: 0 20px;
 }
-#footer {
+ul {
+	float: right;
+	
+}
+
+footer {
 	float: left;
 }
 
