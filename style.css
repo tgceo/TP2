@@ -1,13 +1,14 @@
 body {
 		background-color: #eee;
 }
-h1 {
+logo {
 	margin: 0 20px;
 	font-family: "Arial";
 	color: #030100;
 }
 #nav  {
 	float: right;
+	display: inline;
 }
 li {
 	float: left;
